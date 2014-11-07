@@ -1,1 +1,1 @@
-Some text here
+This is a readme file

@@ -1,4 +1,0 @@
-applications
-============
-
-Inchora Public Applications
